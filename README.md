@@ -11,7 +11,7 @@ Link to our website: https://share.streamlit.io/deep-wind/miniproject/main/app.p
 |      *Project Name*     | Predicting The Energy Output Of Wind Turbine Based On Weather Condition |
 |:---------------------:|:------------------------------:|
 |         *Domain*        |  Machine Learning |
-|        *Team ID*        |  |
+|        *Team ID*        |  PNT2022TMID05596 |
 
 
 
