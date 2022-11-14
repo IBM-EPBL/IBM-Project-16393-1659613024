@@ -28,15 +28,20 @@ Link to our website: https://share.streamlit.io/deep-wind/miniproject/main/app.p
 
 ## Problem Statement
 
-Wind power generation differs from conventional thermal generation due to the stochastic nature of wind. Thus wind power forecasting plays a key role in dealing with the challenges of balancing supply and demand in any electricity system, given the uncertainty associated with the wind farm power output. Accurate wind power forecasting reduces the need for additional balancing energy and reserve power to integrate wind power. For a wind farm that converts wind energy into electricity power, a real-time prediction system of the output power is significant. In this guided project , a prediction system is developed with a method of combining statistical models and physical models. In this system, the inlet condition of the wind farm is forecasted by the auto regressive model.
+Wind power generation differs from conventional thermal generation due to the stochastic nature of wind. Thus wind power forecasting plays a key role in dealing with the challenges of balancing supply and demand in any electricity system, given the uncertainty associated with the wind farm power output. 
+Accurate wind power forecasting reduces the need for additional balancing energy and reserve power to integrate wind power. For a wind farm that converts wind energy into electricity power, a real-time prediction system of the output power is significant.
+In this guided project , a prediction system is developed with a method of combining statistical models and physical models. In this system, the inlet condition of the wind farm is forecasted by the auto regressive model.
 
 ## Proposed method
 
-Wind power is calculated based on : weather conditions (wind speed, wind direction, pressure, temperature, dewpoint, relative humidity)
+Wind power is calculated based on : weather conditions (wind speed, wind direction, pressure, temperature, dewpoint, relative humidity).
+
 Our aim is to develop an end to end web application to predict the energy output of the wind turbine based on weather conditions. The technique incorporated in our project is deep learning.
 
 ## ADVANTAGES:
-👉🏻 Rather than installing more devices on the turbine, this idea can maximise yields and efficiency while having small effects on the climate. 
+👉🏻 Rather than installing more devices on the turbine, this idea can maximise yields and efficiency while having small effects on the climate.
+
 👉🏻 At the same time, it boosts the performance and competitiveness of market players, making this business more attractive.
-👉🏻 A special kind of RNN – BiLSTM Network (Bidirectional Long Short Term Memory) is implemented which has a prominent performance in capturing the long-term dependencies along the time steps, and thus very applicable for wind power prediction
+
+👉🏻 A special kind of RNN – BiLSTM Network (Bidirectional Long Short Term Memory) is implemented which has a prominent performance in capturing the long-term dependencies along the time steps, and thus very applicable for wind power prediction.
 
