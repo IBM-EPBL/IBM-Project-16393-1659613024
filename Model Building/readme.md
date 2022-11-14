@@ -3,7 +3,7 @@
 ## Choose The Appropriate Model
  Model used is a special kind of RNN 
                                
-                               ⚙️  BiLSTM Network (Bidirectional Long Short Term Memory) ⚙️ 
+                               ⚙️  BiLSTM Network Model (Bidirectional Long Short Term Memory) ⚙️ 
                                
                               
 
