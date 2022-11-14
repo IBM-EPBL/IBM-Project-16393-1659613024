@@ -1,9 +1,10 @@
-DEEP WIND!!
-##visit us now!!
-WIND POWER PREDICTION DL WEB APP!!!
+# WIND POWER PREDICTION DL WEB APP!!!
+## visit us now!!
+
 Link to our website: https://share.streamlit.io/deep-wind/miniproject/main/app.py#deep-winds
 
-<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/money-lending-abstract-concept_335657-3053.jpg">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/72887609/201636582-7cdcd747-5aaf-4ff1-8b56-2a6be4d56ddb.png">
+
 
 # IBM-Project-16393-1659613024
 
