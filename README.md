@@ -38,7 +38,8 @@ Wind power is calculated based on : weather conditions (wind speed, wind directi
 
 Our aim is to develop an end to end web application to predict the energy output of the wind turbine based on weather conditions. The technique incorporated in our project is deep learning.
 
-## ADVANTAGES:
+## Advantages
+
 👉🏻 Rather than installing more devices on the turbine, this idea can maximise yields and efficiency while having small effects on the climate.
 
 👉🏻 At the same time, it boosts the performance and competitiveness of market players, making this business more attractive.
