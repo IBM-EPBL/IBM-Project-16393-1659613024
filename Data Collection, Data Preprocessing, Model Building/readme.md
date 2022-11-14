@@ -27,6 +27,12 @@ The dataset contains the details about
 <img width="403" alt="image" src="https://user-images.githubusercontent.com/72887609/201655949-d06c4331-e109-480a-9f03-2a2403ace44b.png">
 
 
-We have hourly data for about 6 years (i.e) almost 52000 entries. 
+Data collection files 
+
+                                   ➡️Wind Power Generation - deep wind.csv,
+                                   
+                                   ➡️model_windpower.py
+                                   
+                                  
 
 
