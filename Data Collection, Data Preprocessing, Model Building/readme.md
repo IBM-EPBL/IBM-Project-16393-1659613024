@@ -1,5 +1,5 @@
 ## System Architecture
-![image](https://user-images.githubusercontent.com/72887609/201653872-5569528b-4908-40f1-abcb-b02d079efd2e.png)
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/72887609/201657763-d791c8ce-df6b-4667-88df-38c0e66fdf12.png">
 
 ## Data Collection
 
