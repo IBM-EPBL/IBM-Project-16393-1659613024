@@ -27,12 +27,27 @@ The dataset contains the details about
 <img width="403" alt="image" src="https://user-images.githubusercontent.com/72887609/201655949-d06c4331-e109-480a-9f03-2a2403ace44b.png">
 
 
-Data collection files 
+Files 
 
                                    ➡️Wind Power Generation - deep wind.csv,
                                    
                                    ➡️model_windpower.py
                                    
-                                  
-
+                                   
+                                   
+Libraries to be imported
+                                   ➡️pandas       ➡️tensorflow
+                               
+                                   ➡️keras        ➡️matplotlib
+                               
+                                   ➡️sklearn      ➡️plotly
+                               
+                                   ➡️xlrd         ➡️openpyxl
+                                   
+                                   ➡️click        ➡️streamlit
+                               
+                               
+                               
+                                   
+                                   
 
