@@ -34,8 +34,10 @@ Files
                                    ➡️model_windpower.py
                                    
                                    
-                                   
+               
+               
 Libraries to be imported
+                                  
                                    ➡️pandas       ➡️tensorflow
                                
                                    ➡️keras        ➡️matplotlib
