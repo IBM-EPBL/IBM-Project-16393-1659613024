@@ -13,13 +13,15 @@
 
 
 
-# Team Members :
+
+## Team Members :
 |   *Title*   |         *Name*        |
 |:-------------:|:-----------------------:|
 | Team Leader   |    *BRINDHA M*   |
 | Team Member 1 |     *ARUNA N*     |
 | Team Member 2 |     *DEEPIKA K*      |
 | Team Member 3 |    *HARINI K S*     |
+
 
 
 ## PREDICTING THE ENERGY OUTPUT OF WIND TURBINE BASED ON WEATHER CONDITION
