@@ -12,7 +12,12 @@ An BiLSTM is well suited to classify, process and predict time series given time
 BiLSTM plays a prominent performance in capturing the long-term dependencies along the time steps, and thus very applicable for wind power prediction.
 
 ## Check the metrics of the model
+Accuracy observed with different models
+
+<img width="593" alt="image" src="https://user-images.githubusercontent.com/72887609/201704322-5abcc68b-82b0-4df2-89cc-b4580f651e8a.png">
+
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/72887609/201701341-a44a067f-4b8e-41dd-90d8-e2756fa9836c.png">
+
 
 ## API Integration
 
