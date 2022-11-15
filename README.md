@@ -46,3 +46,10 @@ Our aim is to develop an end to end web application to predict the energy output
 
 👉🏻 A special kind of RNN – BiLSTM Network (Bidirectional Long Short Term Memory) is implemented which has a prominent performance in capturing the long-term dependencies along the time steps, and thus very applicable for wind power prediction.
 
+
+
+## Output Snapshorts
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/72887609/201898642-a151cd81-aca1-499e-bba4-277340b76a12.png">
+
+
