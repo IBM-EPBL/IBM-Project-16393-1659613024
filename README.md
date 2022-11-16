@@ -3,8 +3,9 @@
 ## WIND POWER PREDICTION DL WEB APP!
 
 🔍 Visit us now 👉🏻  https://share.streamlit.io/deep-wind/miniproject/main/app.py#deep-winds
-
 # IBM-Project-16393-1659613024
+
+![](https://komarev.com/ghpvc/?username=IBM-Project-16393-1659613024&label=PROFILE+VIEWS)
 
 |      *Project Name*     | Predicting The Energy Output Of Wind Turbine Based On Weather Condition |
 |:---------------------:|:------------------------------:|
@@ -24,9 +25,9 @@
 
 
 ## Required Skills :
- ![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)  ![Tux, the Linux mascot]( https://img.icons8.com/color/48/000000/kubernetes.png) ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/docker.png)  ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/python.png)  ![Tux, the Linux mascot](https://img.icons8.com/nolan/64/ibm.png)
+ ![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)  ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/docker.png)  ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/python.png)  ![Tux, the Linux mascot](https://img.icons8.com/nolan/64/ibm.png)
 
-    HTML, CSS, IBM Cloud Object Storage, Streamlit, IBM Container Registry
+    HTML, CSS, IBM Cloud Object Storage, Streamlit, ML, Python
 
 
 
