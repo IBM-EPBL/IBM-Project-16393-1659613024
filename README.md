@@ -54,7 +54,7 @@ Our aim is to develop an end to end web application to predict the energy output
 
 
 
-## Output Snapshorts
+## Output Snapshots
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/72887609/201898642-a151cd81-aca1-499e-bba4-277340b76a12.png">
 
