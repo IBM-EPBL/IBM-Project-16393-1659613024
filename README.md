@@ -1,6 +1,6 @@
-## WIND POWER PREDICTION DL WEB APP!
-
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/72887609/201636582-7cdcd747-5aaf-4ff1-8b56-2a6be4d56ddb.png">
+
+## WIND POWER PREDICTION DL WEB APP!
 
 🔍 Visit us now 👉🏻  https://share.streamlit.io/deep-wind/miniproject/main/app.py#deep-winds
 
